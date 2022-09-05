@@ -1,8 +1,3 @@
----
-title: Home
-layout: page
----
+# Image Classifier
 
-# Bear Classifier
-
-- [Bear classifier](https://thierryherrmann.github.io/classifier/app.html)
+- [image classifier](https://thierryherrmann.github.io/classifier)
